@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+
 
 ## 📒 Descrição
 Projeto de IA generativa, desafiando a criar uma imagem, um ebook e um podcast com o auxílio de IA. Explorei como a tecnologia pode gerar conteúdo visual, textual e auditivo de forma inovadora.
